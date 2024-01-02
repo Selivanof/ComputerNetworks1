@@ -1,4 +1,4 @@
-# Computer Networks I
+# Computer Networks I Course 2022-2023
 
 This repository contains the project that I completed for the Computer Networks I 2022-2023 Course, as part of my undergraduate studies at Aristotle University of Thessaloniki.
 
