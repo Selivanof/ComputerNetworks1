@@ -35,3 +35,5 @@ For each session we were asked to include in our report:
 The report should include the aforementioned results, accompanied by:
   - Brief comments or observations on the measurements and charts presented.
   - A small bibliographic technical reference to mechanisms and protocols used in similar modem applications.
+---
+For all of my university-related projects you can visit [this repository](https://github.com/Selivanof/UniversityCollection)
